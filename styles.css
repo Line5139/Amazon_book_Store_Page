@@ -1,0 +1,57 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    margin: auto auto;
+}
+
+
+.breadcrumbs{
+    margin-top: 40px;
+    color: #565959;
+    margin-bottom: 20px;
+}
+
+a{
+    color: #007185;
+}
+
+.title {
+    font-weight: lighter;
+}
+
+.main-img {
+    box-shadow: 0px 2px 5px lightgray;
+    width: 350px;
+    margin: auto auto;
+    
+}
+
+.column{
+    display: block;
+    margin-top: 20px;
+    margin-left: 20px; 
+}
+
+.second-column{
+    display: block;
+    margin-left: 30px;
+}
+
+.title{
+    font-weight: bold;
+    font-size: 30px;
+}
+
+
+.rating{
+    width: 150px;
+}
+
+.sub-title{
+    font-weight: bold;
+    
+}
+.description{
+    font-size: 16px;
+    font-weight: light;
+}
