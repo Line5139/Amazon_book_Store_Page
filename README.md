@@ -1,4 +1,4 @@
-# co0a94d1d9ede4f0ce9c890c4
+# Amazon Kindle Store Page
 
 Quick start:
 
